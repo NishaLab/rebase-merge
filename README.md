@@ -40,3 +40,6 @@ vertify
 6. #
 ![image](https://user-images.githubusercontent.com/72178224/190998815-152ba40b-41f2-4b37-a3d8-226464f26adf.png)
 
+===============================
+###Quay lại commit trc đó
+git reset --hard HEAD^
