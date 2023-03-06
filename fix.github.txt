@@ -1,0 +1,3 @@
+FIx newLine at the end of file in github
+
+using: (terminal) echo en 'x=1' filename
